@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ev_img.png" alt="EV Charging Station Banner" width="100%">
+</p>
+
 # EV Charging Station Network — SQL Analytics
 
 SQL analysis of a multi-city EV charging network (stations, chargers,
